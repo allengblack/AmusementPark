@@ -1,7 +1,7 @@
 package amusementpark;
 
 /**
- * @author Gbemisola Bamgbade
+ * @author Allen Gbolahan
  * @version 1.0
  */
 public class Merchandise {
