@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author Gbemisola Bamgbade
+ * @author Allen Gbolahan
  * @version 1.0
  */
 public class Ticket {
