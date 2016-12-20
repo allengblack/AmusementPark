@@ -3,7 +3,7 @@ package amusementpark;
 import java.util.*;
 
 /**
- * @author Gbemisola Bamgbade
+ * @author Allen Gbolahan
  * @version 1.0
  */
 public class AmusementPark {
